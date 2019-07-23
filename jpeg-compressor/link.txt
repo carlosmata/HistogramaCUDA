@@ -1,0 +1,2 @@
+https://github.com/orian/jpeg-compressor
+https://www.freecodecamp.org/news/how-jpg-works-a4dbd2316f35/
